@@ -1,0 +1,31 @@
+fieldset{
+    background-color: blueviolet;
+    padding-left: 22rem;
+    border-radius: 2REM;
+    
+}
+ins,b{
+    color: blue;
+    font-size: larger;
+}
+label{
+    color: ghostwhite;
+}
+.button{
+    margin-left: 18rem;
+}
+.reset{
+    padding-bottom: 2rem;
+}
+h1{
+    color: green;
+}
+h2{
+    color: blueviolet;
+}
+.center{
+    text-align: center;
+}
+ADDRESS{
+    color: ghostwhite;
+}
